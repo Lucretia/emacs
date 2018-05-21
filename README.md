@@ -7,4 +7,4 @@ is working, although it's nowhere near as good as real symbol based auto-complet
 
 Here's what it looks like on my machine.
 
-![Screen shot](./screenshot.png)
+![Screen shot](screenshot.png)
